@@ -1,0 +1,23 @@
+PJM Benchmark Metrics
+================================================================================
+
+Model: Persistence
+MAE: 1069.889023
+RMSE: 1373.723543
+MAPE: 3.480512%
+R²: 0.955189
+Training time: 0.000219 seconds
+
+Model: Linear Regression
+MAE: 281.999597
+RMSE: 392.363074
+MAPE: 0.907718%
+R²: 0.996344
+Training time: 0.051383 seconds
+
+Model: Random Forest
+MAE: 247.314650
+RMSE: 349.967727
+MAPE: 0.788197%
+R²: 0.997092
+Training time: 49.240322 seconds

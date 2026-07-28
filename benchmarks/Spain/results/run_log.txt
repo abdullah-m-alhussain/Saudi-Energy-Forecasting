@@ -1,0 +1,26 @@
+[2026-07-22T12:41:14+03:00] Benchmark started: 2026-07-22T12:41:14+03:00
+[2026-07-22T12:41:14+03:00] Project root: benchmarks/Spain
+[2026-07-22T12:41:14+03:00] Python 3.10.20 on Linux-6.8.0-124-generic-aarch64-with-glibc2.35
+[2026-07-22T12:41:15+03:00] Energy dataset loaded: 35,064 rows × 29 columns
+[2026-07-22T12:41:15+03:00] Weather dataset loaded: 178,396 rows × 17 columns
+[2026-07-22T12:41:17+03:00] Figure saved: time_series.png
+[2026-07-22T12:41:17+03:00] Figure saved: data_distribution.png
+[2026-07-22T12:41:17+03:00] Initial data exploration completed
+[2026-07-22T12:41:19+03:00] Data cleaning completed: 36 target values interpolated; 5,874 rows participating in duplicate city-time records aggregated
+[2026-07-22T12:41:19+03:00] Figure saved: correlation_heatmap.png
+[2026-07-22T12:41:19+03:00] Datasets integrated one-to-one: 35,064 hourly rows and 55 city-specific weather features
+[2026-07-22T12:41:24+03:00] Feature engineering completed: 34,896 rows × 95 predictors
+[2026-07-22T12:41:25+03:00] Figure saved: train_test_split.png
+[2026-07-22T12:41:25+03:00] Chronological 80/20 train/test split completed without shuffling
+[2026-07-22T12:41:25+03:00] Persistence evaluated: RMSE=1396.8184 MW
+[2026-07-22T12:41:25+03:00] Linear Regression trained in 0.074s; RMSE=724.7343 MW
+[2026-07-22T12:41:48+03:00] Random Forest trained in 22.546s; RMSE=482.6668 MW
+[2026-07-22T12:41:48+03:00] Figure saved: prediction_comparison.png
+[2026-07-22T12:41:48+03:00] Figure saved: model_comparison.png
+[2026-07-22T12:41:48+03:00] Model evaluation completed; best model by RMSE: Random Forest
+[2026-07-22T12:41:50+03:00] Final metrics — Persistence: MAE=1049.012464, RMSE=1396.818404, MAPE=3.715358%, R2=0.904435, training=0.000s
+[2026-07-22T12:41:50+03:00] Final metrics — Linear Regression: MAE=476.816748, RMSE=724.734343, MAPE=1.687306%, R2=0.974274, training=0.074s
+[2026-07-22T12:41:50+03:00] Final metrics — Random Forest: MAE=281.639762, RMSE=482.666751, MAPE=0.984335%, R2=0.988589, training=22.546s
+[2026-07-22T12:41:50+03:00] Models trained: Persistence, Linear Regression, Random Forest
+[2026-07-22T12:41:50+03:00] Total benchmark runtime: 35.427 seconds
+[2026-07-22T12:41:50+03:00] Final artifact validation passed

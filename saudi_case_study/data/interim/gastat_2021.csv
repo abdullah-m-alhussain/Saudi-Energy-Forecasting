@@ -1,0 +1,53 @@
+year,region_original,region,season,measure,unit,value,source_type,source_file,source_sheet,source_table,source_excel_row
+2021,Al-Bahah,Al-Bahah,Rest of the year,Consumption,kWh,1464798031,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,19
+2021,Al-Bahah,Al-Bahah,Rest of the year,Cost,SAR,322659766,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,19
+2021,Al-Bahah,Al-Bahah,Winter,Consumption,kWh,367849699,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,19
+2021,Al-Bahah,Al-Bahah,Winter,Cost,SAR,81175236,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,19
+2021,Al-Jouf,Al-Jouf,Rest of the year,Consumption,kWh,1231174711,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,20
+2021,Al-Jouf,Al-Jouf,Rest of the year,Cost,SAR,295519925,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,20
+2021,Al-Jouf,Al-Jouf,Winter,Consumption,kWh,263994514,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,20
+2021,Al-Jouf,Al-Jouf,Winter,Cost,SAR,58868009,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,20
+2021,Al Qassim,Al-Qassim,Rest of the year,Consumption,kWh,9423675533,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,11
+2021,Al Qassim,Al-Qassim,Rest of the year,Cost,SAR,2127845105,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,11
+2021,Al Qassim,Al-Qassim,Winter,Consumption,kWh,1262290669,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,11
+2021,Al Qassim,Al-Qassim,Winter,Cost,SAR,277701619,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,11
+2021,Asir,Asir,Rest of the year,Consumption,kWh,5091179063,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,13
+2021,Asir,Asir,Rest of the year,Cost,SAR,1212442957,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,13
+2021,Asir,Asir,Winter,Consumption,kWh,857927505,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,13
+2021,Asir,Asir,Winter,Cost,SAR,200717977,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,13
+2021,Eastern Region,Eastern Region,Rest of the year,Consumption,kWh,15924140065,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,12
+2021,Eastern Region,Eastern Region,Rest of the year,Cost,SAR,3633160406,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,12
+2021,Eastern Region,Eastern Region,Winter,Consumption,kWh,2617365030,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,12
+2021,Eastern Region,Eastern Region,Winter,Cost,SAR,588371177,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,12
+2021,Hail,Hail,Rest of the year,Consumption,kWh,3592907778,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,15
+2021,Hail,Hail,Rest of the year,Cost,SAR,794206659,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,15
+2021,Hail,Hail,Winter,Consumption,kWh,721039786,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,15
+2021,Hail,Hail,Winter,Cost,SAR,158073974,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,15
+2021,Jazan,Jazan,Rest of the year,Consumption,kWh,4285544736,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,17
+2021,Jazan,Jazan,Rest of the year,Cost,SAR,959358664,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,17
+2021,Jazan,Jazan,Winter,Consumption,kWh,987490903,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,17
+2021,Jazan,Jazan,Winter,Cost,SAR,217088274,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,17
+2021,Madinah,Madinah,Rest of the year,Consumption,kWh,9535951637,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,10
+2021,Madinah,Madinah,Rest of the year,Cost,SAR,2179868917,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,10
+2021,Madinah,Madinah,Winter,Consumption,kWh,1502964633,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,10
+2021,Madinah,Madinah,Winter,Cost,SAR,333905495,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,10
+2021,Makkah,Makkah,Rest of the year,Consumption,kWh,45378765717,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,9
+2021,Makkah,Makkah,Rest of the year,Cost,SAR,10433194472,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,9
+2021,Makkah,Makkah,Winter,Consumption,kWh,9119507632,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,9
+2021,Makkah,Makkah,Winter,Cost,SAR,2009727458,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,9
+2021,Najran,Najran,Rest of the year,Consumption,kWh,1588964924,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,18
+2021,Najran,Najran,Rest of the year,Cost,SAR,383180808,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,18
+2021,Najran,Najran,Winter,Consumption,kWh,429201785,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,18
+2021,Najran,Najran,Winter,Cost,SAR,95069179,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,18
+2021,Northern Borders,Northern Borders,Rest of the year,Consumption,kWh,1235235280,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,16
+2021,Northern Borders,Northern Borders,Rest of the year,Cost,SAR,279104695,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,16
+2021,Northern Borders,Northern Borders,Winter,Consumption,kWh,309277127,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,16
+2021,Northern Borders,Northern Borders,Winter,Cost,SAR,67334139,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,16
+2021,Riyadh,Riyadh,Rest of the year,Consumption,kWh,48478866294,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,8
+2021,Riyadh,Riyadh,Rest of the year,Cost,SAR,11552922000,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,8
+2021,Riyadh,Riyadh,Winter,Consumption,kWh,7796039221,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,8
+2021,Riyadh,Riyadh,Winter,Cost,SAR,1730985918,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,8
+2021,Tabuk,Tabuk,Rest of the year,Consumption,kWh,3260738261,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,14
+2021,Tabuk,Tabuk,Rest of the year,Cost,SAR,734721740,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,14
+2021,Tabuk,Tabuk,Winter,Consumption,kWh,601998801,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,14
+2021,Tabuk,Tabuk,Winter,Cost,SAR,136078020,GASTAT original workbook,HouseholdEnergyStatistics2021En.xlsx,27,Houses Consumption and Cost,14

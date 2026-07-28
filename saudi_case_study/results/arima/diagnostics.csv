@@ -1,0 +1,40 @@
+stage,candidate,region,status,message,aic,n_history
+validation,"ARIMA(0,1,0)_no_drift",Al-Bahah,success,,129.20071680008306,4
+validation,"ARIMA(0,1,0)_no_drift",Al-Jouf,success,,137.12242045176382,4
+validation,"ARIMA(0,1,0)_no_drift",Al-Qassim,success,,138.7045120416656,4
+validation,"ARIMA(0,1,0)_no_drift",Asir,success,,146.3484773242138,4
+validation,"ARIMA(0,1,0)_no_drift",Eastern Region,success,,144.38907172259232,4
+validation,"ARIMA(0,1,0)_no_drift",Hail,success,,133.92043173267368,4
+validation,"ARIMA(0,1,0)_no_drift",Jazan,success,,142.01586263625506,4
+validation,"ARIMA(0,1,0)_no_drift",Madinah,success,,136.88860825460725,4
+validation,"ARIMA(0,1,0)_no_drift",Makkah,success,,148.59884461865963,4
+validation,"ARIMA(0,1,0)_no_drift",Najran,success,,134.5349496555331,4
+validation,"ARIMA(0,1,0)_no_drift",Northern Borders,success,,126.13289947015006,4
+validation,"ARIMA(0,1,0)_no_drift",Riyadh,success,,152.18409128810907,4
+validation,"ARIMA(0,1,0)_no_drift",Tabuk,success,,132.35033560851733,4
+validation,"ARIMA(0,1,0)_linear_drift",Al-Bahah,success,,130.5151956737046,4
+validation,"ARIMA(0,1,0)_linear_drift",Al-Jouf,success,,138.2634144834206,4
+validation,"ARIMA(0,1,0)_linear_drift",Al-Qassim,success,,141.85177761122222,4
+validation,"ARIMA(0,1,0)_linear_drift",Asir,success,,147.5544598636199,4
+validation,"ARIMA(0,1,0)_linear_drift",Eastern Region,success,,144.9396606444234,4
+validation,"ARIMA(0,1,0)_linear_drift",Hail,success,,136.85863867395662,4
+validation,"ARIMA(0,1,0)_linear_drift",Jazan,success,,143.08803927212867,4
+validation,"ARIMA(0,1,0)_linear_drift",Madinah,success,,137.6159178890129,4
+validation,"ARIMA(0,1,0)_linear_drift",Makkah,success,,151.33743610808398,4
+validation,"ARIMA(0,1,0)_linear_drift",Najran,success,,135.50246467002765,4
+validation,"ARIMA(0,1,0)_linear_drift",Northern Borders,success,,127.92042603938216,4
+validation,"ARIMA(0,1,0)_linear_drift",Riyadh,success,,155.10980711829035,4
+validation,"ARIMA(0,1,0)_linear_drift",Tabuk,success,,133.88740609394975,4
+test,"ARIMA(0,1,0)_linear_drift",Al-Bahah,success,,172.8917375733344,5
+test,"ARIMA(0,1,0)_linear_drift",Al-Jouf,success,,182.69420699912905,5
+test,"ARIMA(0,1,0)_linear_drift",Al-Qassim,success,,187.63512197038952,5
+test,"ARIMA(0,1,0)_linear_drift",Asir,success,,195.07629036881957,5
+test,"ARIMA(0,1,0)_linear_drift",Eastern Region,success,,192.35136794374608,5
+test,"ARIMA(0,1,0)_linear_drift",Hail,success,,180.88712033402945,5
+test,"ARIMA(0,1,0)_linear_drift",Jazan,success,,189.129339787273,5
+test,"ARIMA(0,1,0)_linear_drift",Madinah,success,,181.90397887129396,5
+test,"ARIMA(0,1,0)_linear_drift",Makkah,success,,200.24812299133322,5
+test,"ARIMA(0,1,0)_linear_drift",Najran,success,,179.02924836416938,5
+test,"ARIMA(0,1,0)_linear_drift",Northern Borders,success,,168.95210392064044,5
+test,"ARIMA(0,1,0)_linear_drift",Riyadh,success,,205.33964785496894,5
+test,"ARIMA(0,1,0)_linear_drift",Tabuk,success,,176.96710420075328,5

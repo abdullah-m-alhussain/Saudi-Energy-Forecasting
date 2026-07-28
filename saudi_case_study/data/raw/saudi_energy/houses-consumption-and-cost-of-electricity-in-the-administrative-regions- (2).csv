@@ -1,0 +1,337 @@
+﻿Year;Administrative Region;Season;Measure and Unit;Value
+2017;Riyadh;Winter;Consumption (KWh);9656113094.576937
+2017;Madinah;Winter;Consumption (KWh);2458903536.478258
+2019;Al Qassim;Winter;Consumption (KWh);1937898085.0
+2022;Al Qassim;Winter;Consumption (KWh);1319360022.1135771
+2019;Asir;Winter;Consumption (KWh);2996611212.0
+2018;Tabuk;Winter;Consumption (KWh);1119707072.0
+2018;Najran;Winter;Consumption (KWh);779758990.0
+2020;Al-Bahah;Winter;Consumption (KWh);469165147.0
+2022;Riyadh;Winter;Cost (SAR);1530701468.4044638
+2022;Makkah;Winter;Cost (SAR);1506458087.9232626
+2017;Madinah;Winter;Cost (SAR);161679183.34053198
+2019;Eastern Region;Winter;Cost (SAR);952025741.0
+2021;Asir;Winter;Cost (SAR);200717977.0
+2019;Tabuk;Winter;Cost (SAR);234601401.0
+2022;Tabuk;Winter;Cost (SAR);190772517.64892492
+2019;Hail;Winter;Cost (SAR);236304535.0
+2021;Northern Borders;Winter;Cost (SAR);67334139.0
+2022;Northern Borders;Winter;Cost (SAR);98825697.08041094
+2020;Najran;Winter;Cost (SAR);110480000.0
+2017;Al-Bahah;Winter;Cost (SAR);42419719.04067979
+2020;Al-Bahah;Winter;Cost (SAR);96607805.0
+2021;Al-Jouf;Winter;Cost (SAR);58868009.0
+2020;Makkah;Rest of the year;Consumption (KWh);45183730039.0
+2019;Madinah;Rest of the year;Consumption (KWh);10426896795.0
+2022;Madinah;Rest of the year;Consumption (KWh);9116706247.741154
+2017;Al Qassim;Rest of the year;Consumption (KWh);8702062275.0
+2018;Al Qassim;Rest of the year;Consumption (KWh);9086565021.0
+2018;Eastern Region;Rest of the year;Consumption (KWh);30824335850.0
+2020;Asir;Rest of the year;Consumption (KWh);8886838803.0
+2019;Hail;Rest of the year;Consumption (KWh);2929853057.0
+2018;Northern Borders;Rest of the year;Consumption (KWh);1751695471.0
+2021;Northern Borders;Rest of the year;Consumption (KWh);1235235280.0
+2017;Jazan;Rest of the year;Consumption (KWh);12330297464.0
+2019;Jazan;Rest of the year;Consumption (KWh);7109585707.0
+2019;Najran;Rest of the year;Consumption (KWh);2567696293.0
+2017;Al-Bahah;Rest of the year;Consumption (KWh);2444806140.0
+2018;Al-Jouf;Rest of the year;Consumption (KWh);4578979658.0
+2019;Al-Jouf;Rest of the year;Consumption (KWh);2565128025.0
+2020;Total;Rest of the year;Consumption (KWh);160427040041.0
+2022;Total;Rest of the year;Consumption (KWh);143743503226.49408
+2018;Makkah;Rest of the year;Cost (SAR);5583934956.0
+2019;Makkah;Rest of the year;Cost (SAR);10470931097.0
+2017;Al Qassim;Rest of the year;Cost (SAR);714747363.3142709
+2018;Eastern Region;Rest of the year;Cost (SAR);3099368423.0
+2019;Eastern Region;Rest of the year;Cost (SAR);10377046409.0
+2017;Asir;Rest of the year;Cost (SAR);1969645445.2545495
+2020;Asir;Rest of the year;Cost (SAR);2092556136.0
+2022;Tabuk;Rest of the year;Cost (SAR);858495393.3211132
+2019;Hail;Rest of the year;Cost (SAR);652352964.0
+2019;Northern Borders;Rest of the year;Cost (SAR);298024935.0
+2022;Northern Borders;Rest of the year;Cost (SAR);390337957.2707812
+2019;Najran;Rest of the year;Cost (SAR);620378720.0
+2017;Al-Jouf;Rest of the year;Cost (SAR);243302753.4213392
+2020;Al-Jouf;Rest of the year;Cost (SAR);540151610.0
+2019;Total;Rest of the year;Cost (SAR);44389101876.0
+2021;Total;Rest of the year;Cost (SAR);34908186111.0
+2021;Riyadh;Winter;Consumption (KWh);7796039221.0
+2022;Riyadh;Winter;Consumption (KWh);7051873187.09648
+2022;Makkah;Winter;Consumption (KWh);6905449416.637841
+2020;Madinah;Winter;Consumption (KWh);2040377831.0
+2017;Al Qassim;Winter;Consumption (KWh);1682430847.639912
+2018;Al Qassim;Winter;Consumption (KWh);1850955238.0
+2021;Al Qassim;Winter;Consumption (KWh);1262290669.0
+2017;Eastern Region;Winter;Consumption (KWh);5262775051.688831
+2020;Eastern Region;Winter;Consumption (KWh);3482159360.0
+2022;Asir;Winter;Consumption (KWh);1904918502.7695234
+2017;Tabuk;Winter;Consumption (KWh);1111825199.1694949
+2021;Tabuk;Winter;Consumption (KWh);601998801.0
+2020;Hail;Winter;Consumption (KWh);830065564.0
+2021;Northern Borders;Winter;Consumption (KWh);309277127.0
+2020;Jazan;Winter;Consumption (KWh);1554582668.0
+2019;Najran;Winter;Consumption (KWh);743954708.0
+2022;Al-Bahah;Winter;Consumption (KWh);438511503.9631197
+2017;Al-Jouf;Winter;Consumption (KWh);1047155811.2308588
+2019;Total;Winter;Consumption (KWh);37740630965.0
+2018;Makkah;Winter;Cost (SAR);714318115.0
+2019;Madinah;Winter;Cost (SAR);619823275.0
+2020;Madinah;Winter;Cost (SAR);390820207.0
+2022;Madinah;Winter;Cost (SAR);351392203.2630456
+2017;Al Qassim;Winter;Cost (SAR);115254648.24871904
+2019;Al Qassim;Winter;Cost (SAR);566546168.0
+2021;Al Qassim;Winter;Cost (SAR);277701619.0
+2022;Al Qassim;Winter;Cost (SAR);285900564.70996886
+2020;Eastern Region;Winter;Cost (SAR);664686072.0
+2021;Eastern Region;Winter;Cost (SAR);588371177.0
+2017;Asir;Winter;Cost (SAR);275512194.7045303
+2020;Asir;Winter;Cost (SAR);363141089.0
+2017;Tabuk;Winter;Cost (SAR);73810717.035593
+2018;Tabuk;Winter;Cost (SAR);76501190.0
+2020;Tabuk;Winter;Cost (SAR);155716582.0
+2021;Hail;Winter;Cost (SAR);158073974.0
+2020;Northern Borders;Winter;Cost (SAR);83999462.0
+2017;Jazan;Winter;Cost (SAR);149979130.84358788
+2022;Jazan;Winter;Cost (SAR);319863623.9876814
+2018;Najran;Winter;Cost (SAR);56837010.0
+2019;Najran;Winter;Cost (SAR);168123136.0
+2021;Al-Bahah;Winter;Cost (SAR);81175236.0
+2022;Total;Winter;Cost (SAR);5994262439.16594
+2017;Riyadh;Rest of the year;Consumption (KWh);58311208859.0
+2021;Makkah;Rest of the year;Consumption (KWh);45378765717.0
+2022;Makkah;Rest of the year;Consumption (KWh);34857940792.14248
+2018;Madinah;Rest of the year;Consumption (KWh);13002433159.0
+2020;Al Qassim;Rest of the year;Consumption (KWh);8498699680.0
+2022;Al Qassim;Rest of the year;Consumption (KWh);7042941762.035676
+2017;Eastern Region;Rest of the year;Consumption (KWh);30727730092.0
+2022;Eastern Region;Rest of the year;Consumption (KWh);22330217672.695526
+2019;Asir;Rest of the year;Consumption (KWh);10629137186.0
+2020;Tabuk;Rest of the year;Consumption (KWh);3616071416.0
+2018;Hail;Rest of the year;Consumption (KWh);4155945546.0
+2022;Northern Borders;Rest of the year;Consumption (KWh);1767270866.0853336
+2021;Al-Bahah;Rest of the year;Consumption (KWh);1464798031.0
+2017;Al-Jouf;Rest of the year;Consumption (KWh);4541531311.0
+2020;Al-Jouf;Rest of the year;Consumption (KWh);2090562079.0
+2022;Al-Jouf;Rest of the year;Consumption (KWh);1929485006.555684
+2019;Total;Rest of the year;Consumption (KWh);149750759270.0
+2021;Total;Rest of the year;Consumption (KWh);150491942030.0
+2017;Madinah;Rest of the year;Cost (SAR);1155048654.4745312
+2017;Eastern Region;Rest of the year;Cost (SAR);3165695573.42404
+2020;Eastern Region;Rest of the year;Cost (SAR);5483728980.0
+2021;Eastern Region;Rest of the year;Cost (SAR);3633160406.0
+2019;Tabuk;Rest of the year;Cost (SAR);743893993.0
+2020;Tabuk;Rest of the year;Cost (SAR);690784672.0
+2020;Hail;Rest of the year;Cost (SAR);695623902.0
+2022;Hail;Rest of the year;Cost (SAR);768668166.6378961
+2020;Northern Borders;Rest of the year;Cost (SAR);267520333.0
+2019;Jazan;Rest of the year;Cost (SAR);1840470440.0
+2020;Jazan;Rest of the year;Cost (SAR);1304514731.0
+2021;Jazan;Rest of the year;Cost (SAR);959358664.0
+2022;Jazan;Rest of the year;Cost (SAR);1399549855.4882736
+2018;Al-Bahah;Rest of the year;Cost (SAR);216447376.0
+2020;Al-Bahah;Rest of the year;Cost (SAR);410535424.0
+2018;Total;Rest of the year;Cost (SAR);24123443309.0
+2020;Total;Rest of the year;Cost (SAR);36076341644.0
+2020;Riyadh;Winter;Consumption (KWh);8390161686.0
+2019;Makkah;Winter;Consumption (KWh);9811340713.0
+2020;Makkah;Winter;Consumption (KWh);9513673122.0
+2018;Madinah;Winter;Consumption (KWh);2476853485.0
+2020;Al Qassim;Winter;Consumption (KWh);1539416298.0
+2019;Eastern Region;Winter;Consumption (KWh);4294128877.0
+2017;Asir;Winter;Consumption (KWh);4146428088.81415
+2018;Asir;Winter;Consumption (KWh);4195317852.0
+2022;Hail;Winter;Consumption (KWh);916045926.6751179
+2022;Northern Borders;Winter;Consumption (KWh);455981401.88894534
+2017;Jazan;Winter;Consumption (KWh);2324786700.582149
+2018;Jazan;Winter;Consumption (KWh);2356158024.0
+2019;Jazan;Winter;Consumption (KWh);2287978519.0
+2020;Najran;Winter;Consumption (KWh);569210792.0
+2022;Najran;Winter;Consumption (KWh);473619158.64732385
+2017;Al-Bahah;Winter;Consumption (KWh);633322853.3628119
+2017;Total;Winter;Consumption (KWh);40834614210.50189
+2021;Total;Winter;Consumption (KWh);26836947306.0
+2017;Makkah;Winter;Cost (SAR);673039064.4824653
+2020;Al Qassim;Winter;Cost (SAR);338333822.0
+2022;Eastern Region;Winter;Cost (SAR);775137570.7781062
+2019;Asir;Winter;Cost (SAR);675309400.0
+2022;Asir;Winter;Cost (SAR);414583416.78546774
+2020;Hail;Winter;Cost (SAR);170320313.0
+2022;Hail;Winter;Cost (SAR);197964852.49643362
+2018;Northern Borders;Winter;Cost (SAR);34654249.0
+2018;Jazan;Winter;Cost (SAR);209266763.0
+2021;Najran;Winter;Cost (SAR);95069179.0
+2022;Al-Bahah;Winter;Cost (SAR);95129436.74375257
+2017;Al-Jouf;Winter;Cost (SAR);53629863.13256977
+2018;Al-Jouf;Winter;Cost (SAR);117615170.0
+2018;Total;Winter;Cost (SAR);3115154490.0
+2018;Riyadh;Rest of the year;Consumption (KWh);58643764566.0
+2020;Madinah;Rest of the year;Consumption (KWh);10285719042.0
+2021;Madinah;Rest of the year;Consumption (KWh);9535951637.0
+2021;Eastern Region;Rest of the year;Consumption (KWh);15924140065.0
+2018;Tabuk;Rest of the year;Consumption (KWh);4777892250.0
+2019;Northern Borders;Rest of the year;Consumption (KWh);1370924095.0
+2020;Jazan;Rest of the year;Consumption (KWh);6250877934.0
+2018;Najran;Rest of the year;Consumption (KWh);4049575094.0
+2022;Najran;Rest of the year;Consumption (KWh);2217208939.165246
+2019;Al-Bahah;Rest of the year;Consumption (KWh);2205899137.0
+2018;Al Qassim;Rest of the year;Cost (SAR);797739786.0
+2021;Al Qassim;Rest of the year;Cost (SAR);2127845105.0
+2017;Tabuk;Rest of the year;Cost (SAR);360078967.36779565
+2018;Hail;Rest of the year;Cost (SAR);387834754.0
+2018;Northern Borders;Rest of the year;Cost (SAR);160173685.0
+2018;Jazan;Rest of the year;Cost (SAR);1613227580.0
+2021;Najran;Rest of the year;Cost (SAR);383180808.0
+2022;Najran;Rest of the year;Cost (SAR);474613344.810183
+2019;Al-Bahah;Rest of the year;Cost (SAR);683330764.0
+2021;Al-Bahah;Rest of the year;Cost (SAR);322659766.0
+2018;Riyadh;Winter;Consumption (KWh);9687768245.0
+2019;Riyadh;Winter;Consumption (KWh);8929603334.0
+2018;Makkah;Winter;Consumption (KWh);10494999897.0
+2019;Madinah;Winter;Consumption (KWh);2896966402.0
+2021;Madinah;Winter;Consumption (KWh);1502964633.0
+2018;Eastern Region;Winter;Consumption (KWh);5317397646.0
+2022;Eastern Region;Winter;Consumption (KWh);3560456040.834077
+2020;Asir;Winter;Consumption (KWh);1945750042.0
+2021;Asir;Winter;Consumption (KWh);857927505.0
+2019;Tabuk;Winter;Consumption (KWh);1149529403.0
+2020;Tabuk;Winter;Consumption (KWh);832394440.0
+2017;Hail;Winter;Consumption (KWh);1056543108.964022
+2021;Hail;Winter;Consumption (KWh);721039786.0
+2017;Northern Borders;Winter;Consumption (KWh);461492447.338097
+2019;Northern Borders;Winter;Consumption (KWh);476021255.0
+2020;Northern Borders;Winter;Consumption (KWh);379159286.0
+2021;Jazan;Winter;Consumption (KWh);987490903.0
+2022;Jazan;Winter;Consumption (KWh);1474368226.1921697
+2021;Al-Bahah;Winter;Consumption (KWh);367849699.0
+2019;Al-Jouf;Winter;Consumption (KWh);700853935.0
+2017;Riyadh;Winter;Cost (SAR);646321544.558405
+2018;Riyadh;Winter;Cost (SAR);704968500.0
+2021;Riyadh;Winter;Cost (SAR);1730985918.0
+2019;Makkah;Winter;Cost (SAR);2019019112.0
+2021;Makkah;Winter;Cost (SAR);2009727458.0
+2018;Al Qassim;Winter;Cost (SAR);124437945.0
+2017;Eastern Region;Winter;Cost (SAR);359183064.6755376
+2018;Eastern Region;Winter;Cost (SAR);395266313.0
+2021;Tabuk;Winter;Cost (SAR);136078020.0
+2017;Hail;Winter;Cost (SAR);73455021.09765667
+2021;Jazan;Winter;Cost (SAR);217088274.0
+2017;Najran;Winter;Cost (SAR);54296994.89760524
+2022;Najran;Winter;Cost (SAR);103258087.85763454
+2019;Al-Jouf;Winter;Cost (SAR);178038911.0
+2022;Al-Jouf;Winter;Cost (SAR);124274911.48681298
+2019;Total;Winter;Cost (SAR);8480740247.0
+2019;Riyadh;Rest of the year;Consumption (KWh);31818999925.0
+2020;Riyadh;Rest of the year;Consumption (KWh);45171032799.0
+2021;Riyadh;Rest of the year;Consumption (KWh);48478866294.0
+2022;Riyadh;Rest of the year;Consumption (KWh);41758614119.97405
+2018;Makkah;Rest of the year;Consumption (KWh);55099747098.0
+2021;Al Qassim;Rest of the year;Consumption (KWh);9423675533.0
+2020;Eastern Region;Rest of the year;Consumption (KWh);21557369812.0
+2017;Asir;Rest of the year;Consumption (KWh);20464106366.0
+2018;Asir;Rest of the year;Consumption (KWh);20584881000.0
+2021;Asir;Rest of the year;Consumption (KWh);5091179063.0
+2022;Asir;Rest of the year;Consumption (KWh);7068160876.405769
+2017;Tabuk;Rest of the year;Consumption (KWh);4585245842.0
+2019;Tabuk;Rest of the year;Consumption (KWh);3745827308.0
+2017;Hail;Rest of the year;Consumption (KWh);3925871299.0
+2021;Hail;Rest of the year;Consumption (KWh);3592907778.0
+2017;Northern Borders;Rest of the year;Consumption (KWh);1680672755.0
+2018;Jazan;Rest of the year;Consumption (KWh);12394795178.0
+2021;Jazan;Rest of the year;Consumption (KWh);4285544736.0
+2022;Jazan;Rest of the year;Consumption (KWh);6363299962.5908575
+2017;Najran;Rest of the year;Consumption (KWh);4024055708.0
+2021;Najran;Rest of the year;Consumption (KWh);1588964924.0
+2018;Al-Bahah;Rest of the year;Consumption (KWh);2569383740.0
+2022;Al-Bahah;Rest of the year;Consumption (KWh);1744594147.6505747
+2021;Al-Jouf;Rest of the year;Consumption (KWh);1231174711.0
+2017;Riyadh;Rest of the year;Cost (SAR);5000680818.49279
+2018;Riyadh;Rest of the year;Cost (SAR);6788343838.0
+2021;Riyadh;Rest of the year;Cost (SAR);11552922000.0
+2022;Riyadh;Rest of the year;Cost (SAR);9058109828.138418
+2020;Makkah;Rest of the year;Cost (SAR);9751225005.0
+2022;Makkah;Rest of the year;Cost (SAR);7484200719.778509
+2018;Madinah;Rest of the year;Cost (SAR);1142518355.0
+2020;Madinah;Rest of the year;Cost (SAR);2246676949.0
+2019;Al Qassim;Rest of the year;Cost (SAR);1851621754.0
+2020;Al Qassim;Rest of the year;Cost (SAR);1858909102.0
+2018;Asir;Rest of the year;Cost (SAR);2808175606.0
+2022;Asir;Rest of the year;Cost (SAR);1526917250.8940885
+2018;Tabuk;Rest of the year;Cost (SAR);408817758.0
+2021;Tabuk;Rest of the year;Cost (SAR);734721740.0
+2017;Hail;Rest of the year;Cost (SAR);321251274.1050998
+2021;Hail;Rest of the year;Cost (SAR);794206659.0
+2020;Najran;Rest of the year;Cost (SAR);454314992.0
+2022;Al-Bahah;Rest of the year;Cost (SAR);374203654.83382934
+2019;Al-Jouf;Rest of the year;Cost (SAR);944422326.0
+2021;Al-Jouf;Rest of the year;Cost (SAR);295519925.0
+2017;Total;Rest of the year;Cost (SAR);19996954830.281124
+2017;Makkah;Winter;Consumption (KWh);10225556784.386745
+2021;Makkah;Winter;Consumption (KWh);9119507632.0
+2022;Madinah;Winter;Consumption (KWh);1603432658.666758
+2021;Eastern Region;Winter;Consumption (KWh);2617365030.0
+2022;Tabuk;Winter;Consumption (KWh);879807667.6899235
+2018;Hail;Winter;Consumption (KWh);1062374669.0
+2019;Hail;Winter;Consumption (KWh);931962566.0
+2018;Northern Borders;Winter;Consumption (KWh);464963984.0
+2017;Najran;Winter;Consumption (KWh);767280686.2692041
+2021;Najran;Winter;Consumption (KWh);429201785.0
+2018;Al-Bahah;Winter;Consumption (KWh);645193315.0
+2019;Al-Bahah;Winter;Consumption (KWh);583781957.0
+2018;Al-Jouf;Winter;Consumption (KWh);1064310433.0
+2020;Al-Jouf;Winter;Consumption (KWh);503142337.0
+2021;Al-Jouf;Winter;Consumption (KWh);263994514.0
+2022;Al-Jouf;Winter;Consumption (KWh);577782031.280273
+2018;Total;Winter;Consumption (KWh);41515758849.0
+2020;Total;Winter;Consumption (KWh);32049258572.0
+2022;Total;Winter;Consumption (KWh);27561605744.455082
+2019;Riyadh;Winter;Cost (SAR);1952659947.0
+2020;Riyadh;Winter;Cost (SAR);1647747438.0
+2020;Makkah;Winter;Cost (SAR);1827323739.0
+2018;Madinah;Winter;Cost (SAR);160472919.0
+2021;Madinah;Winter;Cost (SAR);333905495.0
+2018;Asir;Winter;Cost (SAR);388496914.0
+2018;Hail;Winter;Cost (SAR);87337222.0
+2017;Northern Borders;Winter;Cost (SAR);28935953.668130457
+2019;Northern Borders;Winter;Cost (SAR);142002715.0
+2019;Jazan;Winter;Cost (SAR);583000149.0
+2020;Jazan;Winter;Cost (SAR);320517165.0
+2018;Al-Bahah;Winter;Cost (SAR);44982179.0
+2019;Al-Bahah;Winter;Cost (SAR);153285758.0
+2020;Al-Jouf;Winter;Cost (SAR);101309290.0
+2017;Total;Winter;Cost (SAR);2707517099.7260065
+2020;Total;Winter;Cost (SAR);6271002983.0
+2021;Total;Winter;Cost (SAR);5955096473.0
+2017;Makkah;Rest of the year;Consumption (KWh);54951107564.0
+2019;Makkah;Rest of the year;Consumption (KWh);39835650154.0
+2017;Madinah;Rest of the year;Consumption (KWh);12934995238.0
+2019;Al Qassim;Rest of the year;Consumption (KWh);6354815303.0
+2019;Eastern Region;Rest of the year;Consumption (KWh);28190346286.0
+2021;Tabuk;Rest of the year;Consumption (KWh);3260738261.0
+2022;Tabuk;Rest of the year;Consumption (KWh);3992525149.8256235
+2020;Hail;Rest of the year;Consumption (KWh);3483897539.0
+2022;Hail;Rest of the year;Consumption (KWh);3554537683.625925
+2020;Northern Borders;Rest of the year;Consumption (KWh);1347783540.0
+2020;Najran;Rest of the year;Consumption (KWh);2220118197.0
+2020;Al-Bahah;Rest of the year;Consumption (KWh);1834339162.0
+2017;Total;Rest of the year;Consumption (KWh);219623690912.0
+2018;Total;Rest of the year;Consumption (KWh);221519993629.0
+2019;Riyadh;Rest of the year;Cost (SAR);9479283407.0
+2020;Riyadh;Rest of the year;Cost (SAR);10279799807.0
+2017;Makkah;Rest of the year;Cost (SAR);5151689960.917025
+2021;Makkah;Rest of the year;Cost (SAR);10433194472.0
+2019;Madinah;Rest of the year;Cost (SAR);2932372309.0
+2021;Madinah;Rest of the year;Cost (SAR);2179868917.0
+2022;Madinah;Rest of the year;Cost (SAR);1959853435.2443635
+2022;Al Qassim;Rest of the year;Cost (SAR);1517744512.6265588
+2022;Eastern Region;Rest of the year;Cost (SAR);4749091858.992446
+2019;Asir;Rest of the year;Cost (SAR);3494972760.0
+2021;Asir;Rest of the year;Cost (SAR);1212442957.0
+2017;Northern Borders;Rest of the year;Cost (SAR);124393718.41279708
+2021;Northern Borders;Rest of the year;Cost (SAR);279104695.0
+2017;Jazan;Rest of the year;Cost (SAR);1136274518.6838713
+2017;Najran;Rest of the year;Cost (SAR);451502210.43434113
+2018;Najran;Rest of the year;Cost (SAR);406724274.0
+2017;Al-Bahah;Rest of the year;Cost (SAR);202643571.97854498
+2018;Al-Jouf;Rest of the year;Cost (SAR);710136919.0
+2022;Al-Jouf;Rest of the year;Cost (SAR);411401253.00673836
+2022;Total;Rest of the year;Cost (SAR);30973187231.043175

@@ -1,0 +1,24 @@
+name: saudi-energy-forecasting
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # Runtime recorded by the executed benchmark and Saudi model artifacts.
+  - python=3.10.20
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - matplotlib=3.9.1
+  - seaborn=0.13.2
+  - scikit-learn=1.7.2
+  - statsmodels=0.14.6
+  - xgboost=3.2.0
+  - joblib=1.5.3
+
+  # Directly required by the data-audit and workbook notebooks.
+  - openpyxl>=3.1,<4
+  - pillow>=10,<13
+
+  # Required to open and execute every committed notebook.
+  - jupyterlab>=4,<5
+  - notebook>=7,<8
+  - ipykernel>=6,<7

@@ -1,0 +1,27 @@
+[2026-07-21T22:56:30+03:00] Benchmark started at 2026-07-21T22:56:30+03:00
+[2026-07-21T22:56:30+03:00] Project root: benchmarks/UCI_Household
+[2026-07-21T22:56:30+03:00] Python 3.10.20 on Linux-6.8.0-124-generic-aarch64-with-glibc2.35
+[2026-07-21T22:56:32+03:00] Dataset loaded: 2,075,259 rows and 9 columns
+[2026-07-21T22:56:34+03:00] Initial data inspection completed
+[2026-07-21T22:56:41+03:00] Preprocessing completed: 25,979 incomplete rows removed; 2,049,280 rows retained
+[2026-07-21T22:56:44+03:00] Figure saved: time_series.png
+[2026-07-21T22:56:44+03:00] Figure saved: global_active_power_distribution.png
+[2026-07-21T22:56:45+03:00] Figure saved: correlation_heatmap.png
+[2026-07-21T22:56:45+03:00] Exploratory data analysis completed
+[2026-07-21T22:57:52+03:00] Feature engineering completed: 2,049,256 rows and 28 features; processed dataset saved
+[2026-07-21T22:57:58+03:00] Figure saved: train_test_split.png
+[2026-07-21T22:57:58+03:00] Chronological 80/20 split completed without shuffling
+[2026-07-21T22:57:58+03:00] Figure saved: persistence_prediction.png
+[2026-07-21T22:57:58+03:00] Persistence evaluated: RMSE=0.221511
+[2026-07-21T22:58:00+03:00] Figure saved: linear_regression_prediction.png
+[2026-07-21T22:58:00+03:00] Linear Regression trained in 1.722 seconds; RMSE=0.220699
+[2026-07-21T22:58:44+03:00] Figure saved: random_forest_prediction.png
+[2026-07-21T22:58:44+03:00] Random Forest trained on 300,000 rows in 42.202 seconds; RMSE=0.209346
+[2026-07-21T22:58:44+03:00] Figure saved: model_comparison_rmse.png
+[2026-07-21T22:58:44+03:00] Model comparison completed; best model: Random Forest
+[2026-07-21T22:58:49+03:00] Final metrics — Persistence: MAE=0.071914, RMSE=0.221511, MAPE=7.261731%, R2=0.938883, training=0.001s
+[2026-07-21T22:58:49+03:00] Final metrics — Linear Regression: MAE=0.086517, RMSE=0.220699, MAPE=10.480248%, R2=0.939331, training=1.722s
+[2026-07-21T22:58:49+03:00] Final metrics — Random Forest: MAE=0.077073, RMSE=0.209346, MAPE=8.005371%, R2=0.945412, training=42.202s
+[2026-07-21T22:58:49+03:00] Models trained: Persistence, Linear Regression, Random Forest
+[2026-07-21T22:58:49+03:00] Total benchmark runtime: 138.330 seconds
+[2026-07-21T22:58:49+03:00] Final artifact validation passed

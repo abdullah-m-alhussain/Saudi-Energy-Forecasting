@@ -1,0 +1,9 @@
+model_name,dataset_split,MAE,RMSE,MAPE,R2,overall_rank,mean_numeric_rank,complexity,interpretability,robustness_note
+Random Forest,test,2553277171.2107,3886811926.61273,18.0593202389727,0.933048364620255,1,2.5,Moderate,Moderate,Limited by small training sample
+Moving average baseline,test,2323903878.16408,4178515931.40958,14.9280122055256,0.92262186446155,1,2.5,Very low,Very high,High
+Naive baseline,test,3050746607.31793,4773581114.15931,23.6558669949979,0.899013632791519,3,3.83333333333333,Very low,Very high,High
+Persistence baseline,test,3050746607.31793,4773581114.15931,23.6558669949979,0.899013632791519,3,3.83333333333333,Very low,Very high,High
+XGBoost,test,2983914346.6858,4099142936.57932,41.4781602940039,0.925533616766831,5,4.5,High,Moderate-low,Limited by small training sample
+Hybrid,test,3751525995.05941,5248205335.72785,38.4413908873161,0.8779337021076,6,5.66666666666667,High,Moderate-low,Weights collapse to ARIMA in supplied results
+Historical mean baseline,test,3500664048.24344,5664021617.85612,26.6686156131901,0.857824769565403,7,5.83333333333333,Very low,Very high,High
+ARIMA,test,3751525995.05942,5248205335.72785,38.4413908873161,0.877933702107599,8,6,Low,High,Limited by four-to-five point regional histories

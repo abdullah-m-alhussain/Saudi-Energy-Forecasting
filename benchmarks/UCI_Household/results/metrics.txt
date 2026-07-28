@@ -1,0 +1,23 @@
+UCI Household Benchmark Metrics
+================================================================================
+
+Model: Persistence
+MAE: 0.071914
+RMSE: 0.221511
+MAPE: 7.261731%
+R²: 0.938883
+Training time: 0.000507 seconds
+
+Model: Linear Regression
+MAE: 0.086517
+RMSE: 0.220699
+MAPE: 10.480248%
+R²: 0.939331
+Training time: 1.721984 seconds
+
+Model: Random Forest
+MAE: 0.077073
+RMSE: 0.209346
+MAPE: 8.005371%
+R²: 0.945412
+Training time: 42.202279 seconds

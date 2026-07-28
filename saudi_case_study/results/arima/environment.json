@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-07-23T19:25:46.667913+03:00",
+  "matplotlib": "3.9.1",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "python": "3.10.20",
+  "seaborn": "0.13.2",
+  "statsmodels": "0.14.6"
+}

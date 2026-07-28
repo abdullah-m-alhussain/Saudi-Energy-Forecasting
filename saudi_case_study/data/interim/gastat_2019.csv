@@ -1,0 +1,53 @@
+year,region_original,region,season,measure,unit,value,source_type,source_file,source_sheet,source_table,source_excel_row
+2019,Al-Bahah,Al-Bahah,Rest of the year,Consumption,kWh,2205899137,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,19
+2019,Al-Bahah,Al-Bahah,Rest of the year,Cost,SAR,683330764,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,19
+2019,Al-Bahah,Al-Bahah,Winter,Consumption,kWh,583781957,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,19
+2019,Al-Bahah,Al-Bahah,Winter,Cost,SAR,153285758,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,19
+2019,Al-Jouf,Al-Jouf,Rest of the year,Consumption,kWh,2565128025,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,20
+2019,Al-Jouf,Al-Jouf,Rest of the year,Cost,SAR,944422326,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,20
+2019,Al-Jouf,Al-Jouf,Winter,Consumption,kWh,700853935,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,20
+2019,Al-Jouf,Al-Jouf,Winter,Cost,SAR,178038911,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,20
+2019,Al-Qassim,Al-Qassim,Rest of the year,Consumption,kWh,6354815303,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,11
+2019,Al-Qassim,Al-Qassim,Rest of the year,Cost,SAR,1851621754,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,11
+2019,Al-Qassim,Al-Qassim,Winter,Consumption,kWh,1937898085,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,11
+2019,Al-Qassim,Al-Qassim,Winter,Cost,SAR,566546168,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,11
+2019,Asir,Asir,Rest of the year,Consumption,kWh,10629137186,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,13
+2019,Asir,Asir,Rest of the year,Cost,SAR,3494972760,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,13
+2019,Asir,Asir,Winter,Consumption,kWh,2996611212,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,13
+2019,Asir,Asir,Winter,Cost,SAR,675309400,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,13
+2019,Eastern Region,Eastern Region,Rest of the year,Consumption,kWh,28190346286,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,12
+2019,Eastern Region,Eastern Region,Rest of the year,Cost,SAR,10377046409,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,12
+2019,Eastern Region,Eastern Region,Winter,Consumption,kWh,4294128877,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,12
+2019,Eastern Region,Eastern Region,Winter,Cost,SAR,952025741,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,12
+2019,Hail,Hail,Rest of the year,Consumption,kWh,2929853057,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,15
+2019,Hail,Hail,Rest of the year,Cost,SAR,652352964,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,15
+2019,Hail,Hail,Winter,Consumption,kWh,931962566,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,15
+2019,Hail,Hail,Winter,Cost,SAR,236304535,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,15
+2019,Jazan,Jazan,Rest of the year,Consumption,kWh,7109585707,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,17
+2019,Jazan,Jazan,Rest of the year,Cost,SAR,1840470440,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,17
+2019,Jazan,Jazan,Winter,Consumption,kWh,2287978519,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,17
+2019,Jazan,Jazan,Winter,Cost,SAR,583000149,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,17
+2019,Madinah,Madinah,Rest of the year,Consumption,kWh,10426896795,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,10
+2019,Madinah,Madinah,Rest of the year,Cost,SAR,2932372309,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,10
+2019,Madinah,Madinah,Winter,Consumption,kWh,2896966402,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,10
+2019,Madinah,Madinah,Winter,Cost,SAR,619823275,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,10
+2019,Makkah,Makkah,Rest of the year,Consumption,kWh,39835650154,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,9
+2019,Makkah,Makkah,Rest of the year,Cost,SAR,10470931097,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,9
+2019,Makkah,Makkah,Winter,Consumption,kWh,9811340713,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,9
+2019,Makkah,Makkah,Winter,Cost,SAR,2019019112,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,9
+2019,Najran,Najran,Rest of the year,Consumption,kWh,2567696293,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,18
+2019,Najran,Najran,Rest of the year,Cost,SAR,620378720,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,18
+2019,Najran,Najran,Winter,Consumption,kWh,743954708,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,18
+2019,Najran,Najran,Winter,Cost,SAR,168123136,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,18
+2019,Northern Borders,Northern Borders,Rest of the year,Consumption,kWh,1370924095,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,16
+2019,Northern Borders,Northern Borders,Rest of the year,Cost,SAR,298024935,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,16
+2019,Northern Borders,Northern Borders,Winter,Consumption,kWh,476021255,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,16
+2019,Northern Borders,Northern Borders,Winter,Cost,SAR,142002715,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,16
+2019,Riyadh,Riyadh,Rest of the year,Consumption,kWh,31818999925,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,8
+2019,Riyadh,Riyadh,Rest of the year,Cost,SAR,9479283407,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,8
+2019,Riyadh,Riyadh,Winter,Consumption,kWh,8929603334,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,8
+2019,Riyadh,Riyadh,Winter,Cost,SAR,1952659947,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,8
+2019,Tabuk,Tabuk,Rest of the year,Consumption,kWh,3745827308,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,14
+2019,Tabuk,Tabuk,Rest of the year,Cost,SAR,743893993,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,14
+2019,Tabuk,Tabuk,Winter,Consumption,kWh,1149529403,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,14
+2019,Tabuk,Tabuk,Winter,Cost,SAR,234601401,GASTAT original workbook,HouseholdEnergyStatistics2019En.xlsx,76,Table 37,14

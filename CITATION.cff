@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+
+title: "Saudi Energy Forecasting: A Reproducible Machine Learning Framework for Regional Household Electricity Consumption Prediction"
+
+message: "If you use this repository in your research, please cite it using the metadata provided in this file."
+
+type: software
+
+authors:
+  - family-names: "Alhussein"
+    given-names: "Abdullah Mohammed"
+
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/Saudi_Energy_Forecasting"
+
+license: "MIT"
+
+keywords:
+  - Saudi Arabia
+  - Electricity Consumption
+  - Energy Forecasting
+  - Machine Learning
+  - Time Series
+  - ARIMA
+  - Random Forest
+  - XGBoost
+  - Hybrid Forecasting
+  - Reproducible Research
+
+abstract: >
+  A reproducible machine learning framework for forecasting regional household
+  electricity consumption in Saudi Arabia. The repository includes benchmark
+  experiments, Saudi regional case studies, baseline forecasting models,
+  advanced machine learning methods, and a hybrid forecasting framework
+  designed for transparent and reproducible research.
+
+version: "1.0.0"
+
+date-released: 2026-06-09

@@ -1,0 +1,28 @@
+feature,importance
+numeric__consumption_lag_1,0.29998098168931137
+numeric__consumption_rolling_mean_2,0.2080723594333312
+numeric__region_historical_mean_consumption,0.20136401752702188
+numeric__consumption_lag_2,0.11619775284491443
+numeric__cost_lag_2,0.043455682848937104
+numeric__cost_rolling_mean_2,0.0362614356117257
+numeric__region_historical_mean_cost,0.03575671718208369
+numeric__cost_lag_1,0.035386479722488776
+numeric__consumption_rolling_std_2,0.008930199457749666
+region__region_Riyadh,0.003555379806005092
+region__region_Eastern Region,0.0031343119737021865
+numeric__consumption_growth_lag_1_pct,0.0023138081484630297
+numeric__winter_consumption_growth_lag_1_pct,0.0018468411495871366
+numeric__cost_growth_lag_1_pct,0.0017305779387462368
+numeric__time_index,0.0007400327303329555
+numeric__rest_consumption_growth_lag_1_pct,0.0005407074299059587
+region__region_Makkah,0.0004826327113174116
+region__region_Al-Qassim,0.0001479459526574759
+region__region_Madinah,9.360064928250227e-05
+region__region_Jazan,8.535192436325181e-06
+region__region_Al-Jouf,0.0
+region__region_Tabuk,0.0
+region__region_Northern Borders,0.0
+region__region_Najran,0.0
+region__region_Hail,0.0
+region__region_Asir,0.0
+region__region_Al-Bahah,0.0

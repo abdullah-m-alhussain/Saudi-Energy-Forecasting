@@ -1,0 +1,26 @@
+[
+  {
+    "hybrid_model": "ARIMA + Random Forest",
+    "validation_MAE": 1236798742.5803442,
+    "validation_RMSE": 2424106328.1003118,
+    "weight_arima": 1.0,
+    "weight_random_forest": 0.0,
+    "weight_xgboost": 0.0
+  },
+  {
+    "hybrid_model": "ARIMA + XGBoost",
+    "validation_MAE": 1236798742.5803442,
+    "validation_RMSE": 2424106328.1003118,
+    "weight_arima": 1.0,
+    "weight_random_forest": 0.0,
+    "weight_xgboost": 0.0
+  },
+  {
+    "hybrid_model": "ARIMA + Random Forest + XGBoost",
+    "validation_MAE": 1236798742.5803442,
+    "validation_RMSE": 2424106328.1003118,
+    "weight_arima": 1.0,
+    "weight_random_forest": 0.0,
+    "weight_xgboost": 0.0
+  }
+]

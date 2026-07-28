@@ -1,0 +1,16 @@
+{
+  "parameters": {
+    "max_depth": 3,
+    "max_features": 1.0,
+    "min_samples_leaf": 1,
+    "n_estimators": 250
+  },
+  "random_seed": 42,
+  "selected_candidate_id": 4,
+  "selection_split": "validation",
+  "test_refit_years": [
+    2019,
+    2020,
+    2021
+  ]
+}

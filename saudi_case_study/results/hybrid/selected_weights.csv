@@ -1,0 +1,4 @@
+hybrid_model,validation_RMSE,validation_MAE,weight_arima,weight_random_forest,weight_xgboost
+ARIMA + Random Forest,2424106328.10031,1236798742.58034,1,0,
+ARIMA + XGBoost,2424106328.10031,1236798742.58034,1,,0
+ARIMA + Random Forest + XGBoost,2424106328.10031,1236798742.58034,1,0,0

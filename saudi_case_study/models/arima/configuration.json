@@ -1,0 +1,12 @@
+{
+  "fallback_rule": "last observation on fit failure",
+  "forecast_horizon_years": 1,
+  "order": [
+    0,
+    1,
+    0
+  ],
+  "selected_name": "ARIMA(0,1,0)_linear_drift",
+  "selection_split": "validation",
+  "trend": "t"
+}

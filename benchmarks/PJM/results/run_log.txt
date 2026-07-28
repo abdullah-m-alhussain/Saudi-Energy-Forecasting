@@ -1,0 +1,22 @@
+[2026-07-21T22:11:00+03:00] Environment and configuration initialized.
+[2026-07-21T22:11:00+03:00] Python 3.10.20 on Linux-6.8.0-124-generic-aarch64-with-glibc2.35.
+[2026-07-21T22:11:00+03:00] Working directory: benchmarks/PJM/notebooks
+[2026-07-21T22:11:00+03:00] Dataset loaded from benchmarks/PJM/data/raw/PJME_hourly.csv (145,366 rows).
+[2026-07-21T22:11:00+03:00] Initial dataset inspection completed.
+[2026-07-21T22:11:00+03:00] Preprocessing completed: removed 0 invalid datetimes and 0 invalid target values; retained valid duplicates.
+[2026-07-21T22:11:00+03:00] DST checks completed: 8 duplicate-timestamp rows and 34 non-hourly intervals documented and retained.
+[2026-07-21T22:11:03+03:00] Exploratory analysis completed and four figures saved.
+[2026-07-21T22:11:03+03:00] Feature engineering completed with 30 predictors.
+[2026-07-21T22:11:07+03:00] Processed dataset saved to benchmarks/PJM/data/processed/PJME_hourly_processed.csv.
+[2026-07-21T22:11:09+03:00] Chronological 80/20 train/test split completed without shuffling.
+[2026-07-21T22:11:09+03:00] Shared evaluation and plotting functions initialized.
+[2026-07-21T22:11:09+03:00] Persistence baseline evaluated.
+[2026-07-21T22:11:10+03:00] Linear regression trained, evaluated, and saved in 0.051 seconds.
+[2026-07-21T22:12:04+03:00] Random forest trained, evaluated, and saved in 49.240 seconds.
+[2026-07-21T22:12:04+03:00] All three models compared using the required metrics.
+[2026-07-21T22:12:05+03:00] Random forest feature importance calculated and saved.
+[2026-07-21T22:12:05+03:00] Benchmark results, predictions, and human-readable metrics saved.
+[2026-07-21T22:12:05+03:00] Benchmark summary prepared; best model by RMSE: Random Forest.
+[2026-07-21T22:12:05+03:00] Total notebook runtime: 64.827 seconds.
+[2026-07-21T22:12:05+03:00] Beginning final artifact validation.
+[2026-07-21T22:12:05+03:00] Final validation passed: every required artifact is present, non-empty, and structurally valid.

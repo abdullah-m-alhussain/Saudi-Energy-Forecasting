@@ -1,0 +1,28 @@
+feature,importance
+numeric__consumption_lag_1,0.25853065
+numeric__region_historical_mean_consumption,0.18248315
+numeric__consumption_lag_2,0.1709755
+numeric__consumption_rolling_mean_2,0.16122806
+numeric__cost_rolling_mean_2,0.11638167
+numeric__cost_lag_1,0.06754611
+numeric__cost_lag_2,0.042854857
+region__region_Al-Bahah,0.0
+numeric__rest_consumption_growth_lag_1_pct,0.0
+numeric__winter_consumption_growth_lag_1_pct,0.0
+numeric__cost_growth_lag_1_pct,0.0
+numeric__consumption_growth_lag_1_pct,0.0
+numeric__consumption_rolling_std_2,0.0
+numeric__time_index,0.0
+region__region_Al-Jouf,0.0
+region__region_Tabuk,0.0
+region__region_Riyadh,0.0
+region__region_Northern Borders,0.0
+region__region_Najran,0.0
+region__region_Makkah,0.0
+region__region_Madinah,0.0
+region__region_Jazan,0.0
+region__region_Hail,0.0
+region__region_Eastern Region,0.0
+region__region_Asir,0.0
+region__region_Al-Qassim,0.0
+numeric__region_historical_mean_cost,0.0

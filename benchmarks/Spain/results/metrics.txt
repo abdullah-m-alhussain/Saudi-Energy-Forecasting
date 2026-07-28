@@ -1,0 +1,23 @@
+Spain Electricity Forecasting Benchmark
+================================================================================
+
+Model: Persistence
+MAE: 1049.012464
+RMSE: 1396.818404
+MAPE: 3.715358%
+R²: 0.904435
+Training time: 0.000215 seconds
+
+Model: Linear Regression
+MAE: 476.816748
+RMSE: 724.734343
+MAPE: 1.687306%
+R²: 0.974274
+Training time: 0.073668 seconds
+
+Model: Random Forest
+MAE: 281.639762
+RMSE: 482.666751
+MAPE: 0.984335%
+R²: 0.988589
+Training time: 22.545545 seconds
